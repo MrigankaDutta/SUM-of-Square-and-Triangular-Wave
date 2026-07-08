@@ -59,14 +59,6 @@ These plots help visualize how two signals combine in the time domain according 
 * Effect of DC offset on waveforms
 * Visualization using MATLAB plotting functions
 
-## Repository Structure
-
-```
-├── sum_square_triangle_wave.m
-├── README.md
-└── output.png   (Optional: Add the generated waveform image)
-```
-
 ## Author
 
 **Mriganka Dutta**
