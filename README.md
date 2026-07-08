@@ -24,7 +24,7 @@ The script performs the following tasks:
 
 ## Output
 
-![Output](SUM.jpg)
+![Output](SUM1.jpg)
 These plots help visualize how two signals combine in the time domain according to the principle of superposition.
 
 ## MATLAB Functions Used
