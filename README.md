@@ -24,12 +24,7 @@ The script performs the following tasks:
 
 ## Output
 
-The program generates three plots:
-
-1. Square Wave
-2. Triangular Wave (with DC Offset)
-3. Sum of Square and Triangular Waves
-
+![Output](SUM.jpg)
 These plots help visualize how two signals combine in the time domain according to the principle of superposition.
 
 ## MATLAB Functions Used
@@ -77,3 +72,8 @@ These plots help visualize how two signals combine in the time domain according 
 **Mriganka Dutta**
 
 If you found this project useful, feel free to ⭐ star the repository and share your feedback.
+
+
+
+
+
